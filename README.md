@@ -1,4 +1,4 @@
-<img src="https://cdn3d.iconscout.com/3d/premium/preview/web-developer-5019746-4183733.png?f=avif&h=700">
+<img src="[https://cdn3d.iconscout.com/3d/premium/preview/web-developer-5019746-4183733.png?f=avif&h=700](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.165267118.1658862631&semt=ais)">
 <h1 align="center">Hi 👋, I'm Nisala Chamodya Sooriyaarachchi</h1>
 <h3 align="center">I'm Student at IJSE</h3>
 
