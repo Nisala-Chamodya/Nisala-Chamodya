@@ -1,4 +1,4 @@
-<img src="[https://cdn3d.iconscout.com/3d/premium/preview/web-developer-5019746-4183733.png?f=avif&h=700](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.165267118.1658862631&semt=ais)">
+<img src="https://img.freepik.com/free-vector/programming-development-isometric-composition-with-image-silicon-chip-with-human-character-code-screens-vector-illustration_1284-66482.jpg?t=st=1676088945~exp=1676089545~hmac=0221c939cb8f0b4f0175dcc534ae9085c0472a7d227f2431735db4e718f8080d">
 <h1 align="center">Hi 👋, I'm Nisala Chamodya Sooriyaarachchi</h1>
 <h3 align="center">I'm Student at IJSE</h3>
 
