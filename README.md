@@ -1,3 +1,4 @@
+<img src="https://cdn3d.iconscout.com/3d/premium/preview/web-developer-5019746-4183733.png?f=avif&h=700">
 <h1 align="center">Hi 👋, I'm Nisala Chamodya Sooriyaarachchi</h1>
 <h3 align="center">I'm Student at IJSE</h3>
 
